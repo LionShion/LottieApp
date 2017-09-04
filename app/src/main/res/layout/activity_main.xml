@@ -11,8 +11,9 @@
         android:id="@+id/animation_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:lottie_fileName="lottiefiles.com - Retweet.json"
+        app:lottie_fileName="Parenting.json"
         app:lottie_loop="true"
         app:lottie_autoPlay="true" />
+
 
 </LinearLayout>
